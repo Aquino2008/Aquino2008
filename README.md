@@ -1,4 +1,4 @@
-## Welcome! ☘️🧑‍🎓
+## Welcome! ☘️🧑‍🎓 
 
 - Estou estudando o [Alura](https://alura.com.br) 😸
 - Estou aprendendo sobre a linguagem Javascript ⌨️
